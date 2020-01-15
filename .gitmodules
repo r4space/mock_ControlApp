@@ -1,0 +1,3 @@
+[submodule "herd-library"]
+	path = herd-library
+	url = git@github.com:r4space/herd-library.git
